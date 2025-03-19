@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+loyalty
+# Loyalty
 
 > Slugline
 
@@ -16,6 +16,9 @@ repository-name
 - [Telemetry](./TELEMETRY.md)
 
 **Executive Summary**
+
+== IMAGE GOES HERE ==
+[Collaboration Management](https://github.com/vanHeemstraSystems/collaboration-management)
 
 Text
 
