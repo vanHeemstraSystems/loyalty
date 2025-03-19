@@ -18,7 +18,7 @@ loyalty
 **Executive Summary**
 
 ![Image](https://github.com/user-attachments/assets/2884cdb8-58a2-45ef-84f5-007e1c70f5b1)<br/>
-Pyramid of Success
+Pyramid of Success: **Loyalty**
 
 ![Image](https://github.com/user-attachments/assets/0201ca43-59a1-43d2-a22d-46fbb7758e58)<br/>
 [Collaboration Management](https://github.com/vanHeemstraSystems/collaboration-management)
