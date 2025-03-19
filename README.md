@@ -17,7 +17,7 @@ loyalty
 
 **Executive Summary**
 
-== IMAGE GOES HERE ==
+![Image](https://github.com/user-attachments/assets/0201ca43-59a1-43d2-a22d-46fbb7758e58)<br/>
 [Collaboration Management](https://github.com/vanHeemstraSystems/collaboration-management)
 
 Text
